@@ -1,4 +1,4 @@
-# Meteora - Landing Page E-Commerce | 7º Challenge Front-end Alura
+# Meteora - Landing Page E-Commerce | 7º Challenge Front-end Alura 
 
 
 Um e-commerce de roupas, **Meteora** foi desenvolvido durante o challenge front-end da Alura com o objetivo de por em prática os conhecimentos em programção Fron-end e simular o ambiente de trabalho em uma empresa real.
